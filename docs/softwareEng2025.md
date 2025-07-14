@@ -1,6 +1,6 @@
 ---
 layout: home
-title:"ソフトウェア工学　2025"
+title: "ソフトウェア工学　2025"
 permalink: /docs/softwareEng2025
 ---
 
